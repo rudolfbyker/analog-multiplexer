@@ -48,13 +48,7 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -118,15 +112,8 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [
-        0.0
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -346,28 +333,11 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "shield.kicad_pro",
+    "filename": "breakout.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
-      {
-        "bus_width": 12.0,
-        "clearance": 0.5,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Default",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
-        "wire_width": 6.0
-      },
       {
         "bus_width": 12.0,
         "clearance": 0.2,
@@ -377,8 +347,7 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "Thin",
-        "nets": [],
+        "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -443,56 +412,8 @@
   },
   "sheets": [
     [
-      "011c74c2-4650-451f-bc3a-043fb00e6a79",
+      "3e0cc08f-e4ff-4db7-909b-9e2c8f12ed66",
       ""
-    ],
-    [
-      "1ee7e437-0e0d-4fe4-9554-b96bca794a00",
-      "Multiplex1"
-    ],
-    [
-      "836a0171-7fb2-4ff2-90fd-d691447a5cb7",
-      "Multiplex2"
-    ],
-    [
-      "4db18b53-e6b5-4681-933c-2ab7e001a863",
-      "Multiplex3"
-    ],
-    [
-      "2e0c9cda-ce18-4ee2-8254-cb62d9dfcd5b",
-      "Multiplex4"
-    ],
-    [
-      "17405c29-67f5-41cc-b55f-a2c224c47784",
-      "Multiplex5"
-    ],
-    [
-      "4f4319a3-8d19-4b23-a0a4-ccedd0124b5f",
-      "Multiplex6"
-    ],
-    [
-      "ddf048b4-7d0f-4357-a60a-94173662a2cd",
-      "Multiplex7"
-    ],
-    [
-      "c2c55195-6f81-4114-a33b-09959f7cdd58",
-      "Multiplex8"
-    ],
-    [
-      "eafbed10-11ee-4d2e-bf10-44773abc3cea",
-      "Multiplex9"
-    ],
-    [
-      "89834032-821f-4714-bec3-31ddf3ceff9e",
-      "Multiplex10"
-    ],
-    [
-      "c014c27f-4ca8-49f7-89a0-9cb95b701f92",
-      "Multiplex11"
-    ],
-    [
-      "28347f2f-45fb-4964-a6a5-38b8f9cf540a",
-      "Multiplex12"
     ]
   ],
   "text_variables": {}

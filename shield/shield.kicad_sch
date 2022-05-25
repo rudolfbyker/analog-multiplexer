@@ -698,7 +698,6 @@
     )
   )
 
-
   (junction (at 107.95 53.34) (diameter 0) (color 0 0 0 0)
     (uuid 1880bd7c-69af-4d35-8331-be44ae1c6ad0)
   )
@@ -713,29 +712,29 @@
   )
 
   (no_connect (at 111.76 109.22) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 106.68) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 104.14) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 101.6) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 118.11) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 115.57) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 132.08 25.4) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 132.08 27.94) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 132.08 30.48) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 50.8) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 48.26) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 63.5) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 111.76 60.96) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 30.48) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 27.94) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 25.4) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 35.56) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 38.1) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 43.18) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 40.64) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 81.28) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 78.74) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 110.49) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
-  (no_connect (at 160.02 113.03) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23815f))
+  (no_connect (at 111.76 106.68) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238160))
+  (no_connect (at 111.76 104.14) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238161))
+  (no_connect (at 111.76 101.6) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238162))
+  (no_connect (at 111.76 118.11) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238163))
+  (no_connect (at 111.76 115.57) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238164))
+  (no_connect (at 132.08 25.4) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238165))
+  (no_connect (at 132.08 27.94) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238166))
+  (no_connect (at 132.08 30.48) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238167))
+  (no_connect (at 111.76 50.8) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238168))
+  (no_connect (at 111.76 48.26) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238169))
+  (no_connect (at 111.76 63.5) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23816a))
+  (no_connect (at 111.76 60.96) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23816b))
+  (no_connect (at 160.02 30.48) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23816c))
+  (no_connect (at 160.02 27.94) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23816d))
+  (no_connect (at 160.02 25.4) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23816e))
+  (no_connect (at 160.02 35.56) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e23816f))
+  (no_connect (at 160.02 38.1) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238170))
+  (no_connect (at 160.02 43.18) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238171))
+  (no_connect (at 160.02 40.64) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238172))
+  (no_connect (at 160.02 81.28) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238173))
+  (no_connect (at 160.02 78.74) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238174))
+  (no_connect (at 160.02 110.49) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238175))
+  (no_connect (at 160.02 113.03) (uuid 07f1fdc0-ddb2-4819-97b6-612b1e238176))
 
   (wire (pts (xy 106.68 58.42) (xy 107.95 58.42))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2495,41 +2494,77 @@
     (path "/f127302c-e52a-4cc9-a016-7484f2f7eb11"
       (reference "J2") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
-    (path "/1ee7e437-0e0d-4fe4-9554-b96bca794a00/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J3") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/1ee7e437-0e0d-4fe4-9554-b96bca794a00/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J3") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/836a0171-7fb2-4ff2-90fd-d691447a5cb7/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J4") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/1ee7e437-0e0d-4fe4-9554-b96bca794a00/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J4") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/4db18b53-e6b5-4681-933c-2ab7e001a863/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J5") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/836a0171-7fb2-4ff2-90fd-d691447a5cb7/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J5") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/2e0c9cda-ce18-4ee2-8254-cb62d9dfcd5b/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J6") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/836a0171-7fb2-4ff2-90fd-d691447a5cb7/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J6") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/17405c29-67f5-41cc-b55f-a2c224c47784/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J7") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/4db18b53-e6b5-4681-933c-2ab7e001a863/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J7") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/4f4319a3-8d19-4b23-a0a4-ccedd0124b5f/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J8") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/4db18b53-e6b5-4681-933c-2ab7e001a863/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J8") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/ddf048b4-7d0f-4357-a60a-94173662a2cd/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J9") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/2e0c9cda-ce18-4ee2-8254-cb62d9dfcd5b/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J9") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/c2c55195-6f81-4114-a33b-09959f7cdd58/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J10") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/2e0c9cda-ce18-4ee2-8254-cb62d9dfcd5b/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J10") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/eafbed10-11ee-4d2e-bf10-44773abc3cea/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J11") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/17405c29-67f5-41cc-b55f-a2c224c47784/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J11") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/89834032-821f-4714-bec3-31ddf3ceff9e/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J12") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/17405c29-67f5-41cc-b55f-a2c224c47784/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J12") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/c014c27f-4ca8-49f7-89a0-9cb95b701f92/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J13") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/4f4319a3-8d19-4b23-a0a4-ccedd0124b5f/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J13") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/28347f2f-45fb-4964-a6a5-38b8f9cf540a/dec7a486-bbc5-409e-a704-c01a03ff0c1b"
-      (reference "J14") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+    (path "/4f4319a3-8d19-4b23-a0a4-ccedd0124b5f/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J14") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/ddf048b4-7d0f-4357-a60a-94173662a2cd/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J15") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/ddf048b4-7d0f-4357-a60a-94173662a2cd/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J16") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/c2c55195-6f81-4114-a33b-09959f7cdd58/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J17") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/c2c55195-6f81-4114-a33b-09959f7cdd58/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J18") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/eafbed10-11ee-4d2e-bf10-44773abc3cea/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J19") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/eafbed10-11ee-4d2e-bf10-44773abc3cea/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J20") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/89834032-821f-4714-bec3-31ddf3ceff9e/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J21") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/89834032-821f-4714-bec3-31ddf3ceff9e/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J22") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/c014c27f-4ca8-49f7-89a0-9cb95b701f92/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J23") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/c014c27f-4ca8-49f7-89a0-9cb95b701f92/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J24") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/28347f2f-45fb-4964-a6a5-38b8f9cf540a/8cff9cae-7c19-48cd-b348-c31b978ee37a"
+      (reference "J25") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/28347f2f-45fb-4964-a6a5-38b8f9cf540a/ace75256-f1e3-4467-80c8-aa67c47df4d1"
+      (reference "J26") (unit 1) (value "Conn_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/b7bcf2cb-05a1-41c9-89bd-f40f2ffc1732"
       (reference "SHIELD1") (unit 1) (value "ARDUINO_DUE_SHIELD") (footprint "freetronics_footprints:ARDUINO_DUE_SHIELD")
