@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.5"
     },
-    "CreationDate": "2023-06-17T16:46:37+02:00"
+    "CreationDate": "2023-06-25T08:58:46+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,8 +34,8 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "pcb_6_muxes-F_Cu.gbr",
-      "FileFunction": "Copper,L1,Top",
+      "Path": "pcb_6_muxes-B_Cu.gbr",
+      "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     }
   ],
