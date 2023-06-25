@@ -55,11 +55,11 @@
     (aux_axis_origin 66.04 22.86)
     (grid_origin 66.04 22.86)
     (pcbplotparams
-      (layerselection 0x0000000_fffffffe)
+      (layerselection 0x0001000_fffffffe)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
-      (usegerberattributes true)
+      (usegerberattributes false)
       (usegerberadvancedattributes true)
       (creategerberjobfile true)
       (dashed_line_dash_ratio 12.000000)
